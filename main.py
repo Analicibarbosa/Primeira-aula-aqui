@@ -1,0 +1,5 @@
+nome = input('digite seu nome: ')
+idade = int(input('digite sua idade: '))
+print(f"Você não sabe de nada,burra")
+print(type(idade))
+print(idade + 10)
