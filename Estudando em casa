@@ -1,0 +1,3 @@
+preço = input('digite seu preço: ')
+valor = input(digite seu valor: '))
+print(f'esse é o seu valor')
